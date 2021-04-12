@@ -1,0 +1,22 @@
+{
+  "name": "portfolio-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ian-Flanagan/portfolio-generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ian-Flanagan/portfolio-generator/issues"
+  },
+  "homepage": "https://github.com/Ian-Flanagan/portfolio-generator#readme",
+  "dependencies": {
+    "inquirer": "^8.0.0"
+  }
+}
